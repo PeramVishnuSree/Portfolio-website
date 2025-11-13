@@ -23,7 +23,7 @@ export function Header() {
           href="#top"
           className="text-lg font-semibold tracking-tight text-slate-900"
         >
-          Vishnu K
+          Vishnu Sree Peram
         </a>
         <nav className="hidden items-center gap-8 text-sm font-medium text-slate-600 md:flex">
           {navLinks.map((link) => (

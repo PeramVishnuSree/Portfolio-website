@@ -1,11 +1,11 @@
 export const profile = {
-  name: "Vishnu N",
+  name: "Vishnu Sree Peram",
   role: "Full Stack & Machine Learning Engineer",
   summary:
     "I build opinionated developer platforms, production-ready ML pipelines, and frictionless product experiences. I love turning ambiguous problem statements into measurable products.",
   location: "Remote · Open to onsite collaborations",
   contact: {
-    email: "hello@example.com",
+    email: "vishnusree416@gmail.com",
     calendly: "https://calendly.com/yourname/30min",
     github: "https://github.com/yourname",
     linkedin: "https://www.linkedin.com/in/yourname/",

@@ -12,14 +12,16 @@ export function Hero() {
       <div className="grid gap-10 lg:grid-cols-[minmax(0,1.8fr)_minmax(0,1fr)] lg:items-start">
         <div className="space-y-6">
           <h1 className="text-4xl font-semibold leading-tight text-slate-900 md:text-5xl">
-            Shipping thoughtful products that make complex systems feel simple.
+            Vishnu Sree Peram
           </h1>
           <p className="text-lg leading-8 text-slate-600">
-            I&apos;m Vishnu, a product-minded engineer blending full stack craft
-            with applied machine learning. I help teams design reliable,
-            observable systems from the first commit through the nth
-            iteration—whether we&apos;re launching a new product or scaling one
-            that’s already loved.
+          Hi, I&apos;m Vishnu Sree Peram — a Software Engineer and M.S. Artificial Intelligence student at San Jose State University, with a B.S. in Computer Science and Mathematics from Penn State University.
+I&apos;m passionate about designing intelligent systems that scale — from machine learning pipelines and distributed cloud infrastructure to full-stack web applications that make a real-world impact.
+
+I love solving challenging technical problems that sit at the intersection of AI, data engineering, and system design.
+My work has spanned everything from building GPU-accelerated ML models to deploying fault-tolerant distributed applications on AWS and Google Cloud.
+
+At my core, I&apos;m a builder — I enjoy taking an idea from concept to production, optimizing every layer along the way.
           </p>
           <div className="flex flex-wrap items-center gap-4">
             <Link
